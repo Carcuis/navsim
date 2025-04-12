@@ -11,10 +11,12 @@
 *.egg-info
 
 # files
+.env
 *.log
 *.pkl
 *.jpg
 *.pcd
+tutorial/*.gif
 
 # exp
 exp
