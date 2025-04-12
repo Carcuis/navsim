@@ -1,0 +1,10 @@
+{
+    "exclude": [
+        "**/dataset",
+        "**/exp"
+    ],
+    "pythonVersion": "3.9",
+    "reportAny": false,
+    "reportDeprecated": false,
+    "typeCheckingMode": "standard",
+}
